@@ -1,0 +1,49 @@
+service_id,active_aug31,active_sep7,active_sep14,trips_in_gtfs,status
+109201,True,False,True,1709,Missing on Sep 7
+109202,True,False,True,0,Missing on Sep 7
+109209,False,True,False,1350,Unique to Sep 7
+109213,True,False,True,0,Missing on Sep 7
+109214,True,True,True,0,Active on all comparison dates
+109215,True,True,True,86,Active on all comparison dates
+109218,True,False,True,0,Missing on Sep 7
+109219,True,True,True,0,Active on all comparison dates
+109222,True,False,True,0,Missing on Sep 7
+109223,True,True,True,0,Active on all comparison dates
+109226,True,False,True,0,Missing on Sep 7
+109227,True,True,True,0,Active on all comparison dates
+109230,True,False,True,0,Missing on Sep 7
+109231,True,True,True,0,Active on all comparison dates
+109232,True,False,True,0,Missing on Sep 7
+109233,True,True,True,0,Active on all comparison dates
+109234,True,False,True,0,Missing on Sep 7
+109235,True,True,True,0,Active on all comparison dates
+109236,True,False,True,0,Missing on Sep 7
+109237,True,True,True,0,Active on all comparison dates
+109238,True,True,True,0,Active on all comparison dates
+109239,True,True,True,0,Active on all comparison dates
+109240,True,True,True,0,Active on all comparison dates
+209201,True,False,True,30,Missing on Sep 7
+6800101,True,True,False,63,Other pattern
+68101,True,False,True,18789,Missing on Sep 7
+68102,True,False,True,34,Missing on Sep 7
+68109,False,True,False,11697,Unique to Sep 7
+68113,True,False,True,6,Missing on Sep 7
+68114,True,True,True,0,Active on all comparison dates
+68115,True,True,True,370,Active on all comparison dates
+68118,True,False,True,0,Missing on Sep 7
+68119,True,True,True,0,Active on all comparison dates
+68122,True,False,True,49,Missing on Sep 7
+68123,True,True,True,0,Active on all comparison dates
+68126,True,False,True,16,Missing on Sep 7
+68127,True,True,True,0,Active on all comparison dates
+68130,True,False,True,0,Missing on Sep 7
+68131,True,True,True,0,Active on all comparison dates
+68132,True,False,True,0,Missing on Sep 7
+68133,True,True,True,0,Active on all comparison dates
+68134,True,False,True,0,Missing on Sep 7
+68135,True,True,True,0,Active on all comparison dates
+68136,True,False,True,0,Missing on Sep 7
+68137,True,True,True,0,Active on all comparison dates
+68138,True,True,True,0,Active on all comparison dates
+68139,True,True,True,0,Active on all comparison dates
+68140,True,True,True,0,Active on all comparison dates

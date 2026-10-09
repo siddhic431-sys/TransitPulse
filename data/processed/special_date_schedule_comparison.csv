@@ -1,0 +1,4 @@
+date,day,scheduled_trips,active_service_ids,interpretation,difference_from_comparison_baseline,percent_difference
+2026-08-31,Monday,21152,46,Regular Monday comparison,31.5,0.15
+2026-09-07,Monday,13566,27,Special-date service pattern; GTFS exceptions replace weekday service,-7554.5,-35.77
+2026-09-14,Monday,21089,45,Regular Monday comparison,-31.5,-0.15
